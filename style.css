@@ -1,0 +1,28 @@
+body {
+  margin: auto;
+  width: 800px;
+  background-image: url(./background.jpg);
+}
+
+h1 {
+  margin: auto;
+  font-family: monospace;
+  size: 30px;
+}
+
+div {
+  padding: 12px;
+  margin: 3px;
+  padding-bottom: 6px;
+  background-color: #bbbbbba6;
+  color: darkred;
+  margin: auto;
+  /* width: 600px; */
+}
+
+img {
+  margin: auto;
+  height: 400px;
+}
+
+#imgID {}
