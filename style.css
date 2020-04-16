@@ -10,7 +10,7 @@ h1 {
   size: 30px;
 }
 
-/* div {
+.myDiv{
   padding: 12px;
   margin: 3px;
   padding-bottom: 6px;
@@ -18,7 +18,7 @@ h1 {
   color: darkred;
   margin: auto;
   /* width: 600px; */
-} */
+}
 
 img {
   margin: auto;
